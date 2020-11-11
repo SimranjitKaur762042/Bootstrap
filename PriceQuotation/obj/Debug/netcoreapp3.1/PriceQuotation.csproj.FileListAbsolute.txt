@@ -1,0 +1,69 @@
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/appsettings.Development.json
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/appsettings.json
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/libman.json
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/PriceQuotation.exe
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/PriceQuotation.deps.json
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/PriceQuotation.runtimeconfig.json
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/PriceQuotation.runtimeconfig.dev.json
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/PriceQuotation.dll
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/PriceQuotation.pdb
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/PriceQuotation.Views.dll
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/PriceQuotation.Views.pdb
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.csprojAssemblyReference.cache
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.AssemblyInfoInputs.cache
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.AssemblyInfo.cs
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.csproj.CoreCompileInputs.cache
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.MvcApplicationPartsAssemblyInfo.cache
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.RazorAssemblyInfo.cache
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.RazorAssemblyInfo.cs
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.TagHelpers.input.cache
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.TagHelpers.output.cache
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.RazorCoreGenerate.cache
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.RazorTargetAssemblyInfo.cache
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.RazorTargetAssemblyInfo.cs
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.Views.pdb
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/staticwebassets/PriceQuotation.StaticWebAssets.Manifest.cache
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/staticwebassets/PriceQuotation.StaticWebAssets.xml
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.dll
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.pdb
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.genruntimeconfig.cache
+E:/Summer 2020/CoreMVC/aspnet_core_mvc/instructors/student_projects/project_solutions/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.csproj.CopyComplete
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/libman.json
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/PriceQuotation.deps.json
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/PriceQuotation.runtimeconfig.json
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/PriceQuotation.runtimeconfig.dev.json
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/PriceQuotation.dll
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/PriceQuotation.pdb
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/PriceQuotation.Views.dll
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/bin/Debug/netcoreapp3.1/PriceQuotation.Views.pdb
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.csprojAssemblyReference.cache
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.AssemblyInfoInputs.cache
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.AssemblyInfo.cs
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.csproj.CoreCompileInputs.cache
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.MvcApplicationPartsAssemblyInfo.cache
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.RazorAssemblyInfo.cache
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.RazorAssemblyInfo.cs
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.TagHelpers.input.cache
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.TagHelpers.output.cache
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.RazorCoreGenerate.cache
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.RazorTargetAssemblyInfo.cache
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.RazorTargetAssemblyInfo.cs
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.Views.pdb
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/staticwebassets/PriceQuotation.StaticWebAssets.Manifest.cache
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/staticwebassets/PriceQuotation.StaticWebAssets.xml
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.dll
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.pdb
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.genruntimeconfig.cache
+/Users/simranjitkaur/Downloads/3-1_PriceQuotation/PriceQuotation/obj/Debug/netcoreapp3.1/PriceQuotation.csproj.CopyComplete

@@ -1,0 +1,53 @@
+﻿@model Quotation
+
+@{
+    ViewBag.Title = "Price Quotation";
+}
+
+    <form asp-action="Index" method="post">
+
+        <div class="row form-group">
+            <label class="col-sm-3" asp-for="TotalUnits">Total Units Used:</label>
+            <div class="col-sm-4">
+                <input class="form-control" asp-for="TotalUnits" />
+            </div>
+            <span class="col-sm text-danger" asp-validation-for="TotalUnits"></span>
+        </div>
+
+        <div class="row form-group">
+            <label class="col-sm-3" asp-for="PricePerUnit">Price Per Unit:</label>
+            <div class="col-sm-4">
+                <input class="form-control" asp-for="PricePerUnit" />
+            </div>
+            <span class="col-sm text-danger" asp-validation-for="PricePerUnit"></span>
+        </div>
+
+        <div class="row form-group">
+            <label class="col-sm-3">Total Sale:</label>
+            <label class="col-sm-4">@ViewBag.Sale.ToString("c2")</label>
+        </div>
+
+        <div class="row form-group">
+            <label class="col-sm-3">Discount Percent:</label>
+            <label class="col-sm-4">@ViewBag.DiscountPercent.ToString("c2")</label>
+        </div>
+
+
+        <div class="row form-group">
+            <label class="col-sm-3">Discount amount:</label>
+            <label class="col-sm-4">@ViewBag.Discount.ToString("c2")</label>
+        </div>
+
+        <div class="row form-group">
+            <label class="col-sm-3">Total Bill:</label>
+            <label class="col-sm-4">@ViewBag.Total.ToString("c2")</label>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <button class="btn btn-success" type="submit">Calculate</button>
+                <a class="btn btn-success ml-2" asp-action="Index">Clear</a>
+            </div>
+        </div>
+
+    </form>
